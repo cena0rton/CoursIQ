@@ -1,0 +1,28 @@
+body{
+    font-family: lexend exa;
+    
+}
+
+#root{
+    margin: 0 auto;
+}
+body{
+    margin: 0 auto;
+    max-width: 1920px;
+}
+
+
+
+
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24;
+  color: black;
+}
+
+/* rgb(195, 254, 202) */
